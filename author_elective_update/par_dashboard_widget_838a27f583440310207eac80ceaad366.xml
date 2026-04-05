@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">fa8a27f583440310207eac80ceaad32d</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"applyDateRange":false,"bareBorder":false,"chartVariation":"stacked","configVersion":"23.0.0-ci-SNAPSHOT","dataSources":[{"allowRealTime":true,"dataCategories":["group","simple","trend"],"filterQuery":"","id":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzc1NDAxNDc4NjkwNTc3NDI3NDQuMDI3MTA1MjM=","isDatabaseView":false,"label":"NeedIt","reportSourceSysId":"396f437d83400310207eac80ceaad3f6","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"sourceType":"table","tableOrViewName":"x_58872_needit_needit","table":null}],"dateFormat":"default","disableTooltip":false,"emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":null,"endTime":null,"extensionType":"bar","filterConfigurations":"@state.parFilters","followFilters":true,"groupBy":[{"disableRanges":false,"groupBy":[{"dataSource":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzc1NDAxNDc4NjkwNTc3NDI3NDQuMDI3MTA1MjM=","groupByField":"u_requested_for","isChoice":false,"isPaBucket":false,"isRange":false,"metric":"ZEdGaWJHVjRYelU0T0RjeVgyNWxaV1JwZEY5dVpXVmthWFF4TnpjMU5EQXhORGM0Tmprd05UYzNOREkzTkRRdU1ESTNNVEExTWpNPTE3NzU0MDE0Nzg2OTE1ODg0NjQ0Ny42NDcwNjYwNQ=="}],"hideZeroValues":false,"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false}],"hideMatrixAggregate":false,"hideYAxis0":false,"hideYAxis1":true,"hideYAxis2":true,"hideYAxis3":true,"hideYAxis4":true,"legendExpandToFit":true,"legendHorizontalAlignment":"center","legendPosition":"bottom","lineStrokeWidth":"2","metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzc1NDAxNDc4NjkwNTc3NDI3NDQuMDI3MTA1MjM=","id":"ZEdGaWJHVjRYelU0T0RjeVgyNWxaV1JwZEY5dVpXVmthWFF4TnpjMU5EQXhORGM0Tmprd05UYzNOREkzTkRRdU1ESTNNVEExTWpNPTE3NzU0MDE0Nzg2OTE1ODg0NjQ0Ny42NDcwNjYwNQ==","transforms":{},"numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"newReporting":false,"numberOfPeriods":2,"period":null,"refreshFrequency":null,"scoreType":"latest","showAbsolutePeriod":null,"headerTitle":"Monthly Active Requests by Requested for","titleColor":{"value":null},"showHeader":true,"headerColor":{"value":null},"showBorder":true,"showChange":null,"showChangeFrom":null,"showChangePercentage":null,"showComment":false,"showConfidenceBand":false,"showDataLabels":false,"showDataPassthrough":false,"showFilterIcon":true,"showFirstGroupAggregate":false,"showForecast":false,"showForecastRange":false,"showGapPercentage":null,"showHeaderSeparator":false,"showLegend":true,"showLegendValue":false,"showMaximumRange":null,"showMetricLabel":null,"showSecondGroupAggregate":false,"showSparkline":null,"showSubAggregate":false,"showTarget":false,"showThreshold":false,"showTotalAggregate":false,"showContinuousLine":true,"enableAddZerosAtApi":true,"showMarkers":false,"showTotalValue":null,"showTrend":false,"showXGrid":false,"showYGrid":true,"sortBy":"name","sortByOrder":"asc","startTime":null,"telemetry":"null","trendBy":{"trendByFields":[{"field":"u_when_needed","metric":"ZEdGaWJHVjRYelU0T0RjeVgyNWxaV1JwZEY5dVpXVmthWFF4TnpjMU5EQXhORGM0Tmprd05UYzNOREkzTkRRdU1ESTNNVEExTWpNPTE3NzU0MDE0Nzg2OTE1ODg0NjQ0Ny42NDcwNjYwNQ=="}],"trendByFrequency":"month","trendByMinuteInterval":null},"wrapTitle":false,"xAxisTitle":null,"yAxis0From":null,"yAxis0Position":"left","yAxis0Title":null,"yAxis0To":null,"showDataTable":false,"colorConfig":{"type":"default"},"componentId":"afiqivul","filterPerMetric":[],"showDateRangeByDefault":false,"allowChangeDateRange":false,"allowAdditionalGroupByPerMetric":true,"showLoadingIndicator":false,"sharedContext":{}}</component_props>
+        <h>17</h>
+        <name>Monthly Active Requests by Requested for</name>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-05 16:46:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>838a27f583440310207eac80ceaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monthly Active Requests by Requested for</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_838a27f583440310207eac80ceaad366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-05 16:46:25</sys_updated_on>
+        <visualization/>
+        <w>26</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b16d1d7693782210401cddd548373ce7</instance_id>
+        <instance_name>dev326313</instance_name>
+        <name>par_dashboard_widget_838a27f583440310207eac80ceaad366</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">fa8a27f583440310207eac80ceaad32d</canvas><component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component><component_props>{"applyDateRange":false,"bareBorder":false,"chartVariation":"stacked","configVersion":"23.0.0-ci-SNAPSHOT","dataSources":[{"allowRealTime":true,"dataCategories":["group","simple","trend"],"filterQuery":"","id":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzc1NDAxNDc4NjkwNTc3NDI3NDQuMDI3MTA1MjM=","isDatabaseView":false,"label":"NeedIt","reportSourceSysId":"396f437d83400310207eac80ceaad3f6","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"sourceType":"table","tableOrViewName":"x_58872_needit_needit","table":null}],"dateFormat":"default","disableTooltip":false,"emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":null,"endTime":null,"extensionType":"bar","filterConfigurations":"@state.parFilters","followFilters":true,"groupBy":[{"disableRanges":false,"groupBy":[{"dataSource":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzc1NDAxNDc4NjkwNTc3NDI3NDQuMDI3MTA1MjM=","groupByField":"u_requested_for","isChoice":false,"isPaBucket":false,"isRange":false,"metric":"ZEdGaWJHVjRYelU0T0RjeVgyNWxaV1JwZEY5dVpXVmthWFF4TnpjMU5EQXhORGM0Tmprd05UYzNOREkzTkRRdU1ESTNNVEExTWpNPTE3NzU0MDE0Nzg2OTE1ODg0NjQ0Ny42NDcwNjYwNQ=="}],"hideZeroValues":false,"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false}],"hideMatrixAggregate":false,"hideYAxis0":false,"hideYAxis1":true,"hideYAxis2":true,"hideYAxis3":true,"hideYAxis4":true,"legendExpandToFit":true,"legendHorizontalAlignment":"center","legendPosition":"bottom","lineStrokeWidth":"2","metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGV4XzU4ODcyX25lZWRpdF9uZWVkaXQxNzc1NDAxNDc4NjkwNTc3NDI3NDQuMDI3MTA1MjM=","id":"ZEdGaWJHVjRYelU0T0RjeVgyNWxaV1JwZEY5dVpXVmthWFF4TnpjMU5EQXhORGM0Tmprd05UYzNOREkzTkRRdU1ESTNNVEExTWpNPTE3NzU0MDE0Nzg2OTE1ODg0NjQ0Ny42NDcwNjYwNQ==","transforms":{},"numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"newReporting":false,"numberOfPeriods":2,"period":null,"refreshFrequency":null,"scoreType":"latest","showAbsolutePeriod":null,"headerTitle":"Monthly Active Requests by Requested for","titleColor":{"value":null},"showHeader":true,"headerColor":{"value":null},"showBorder":true,"showChange":null,"showChangeFrom":null,"showChangePercentage":null,"showComment":false,"showConfidenceBand":false,"showDataLabels":false,"showDataPassthrough":false,"showFilterIcon":true,"showFirstGroupAggregate":false,"showForecast":false,"showForecastRange":false,"showGapPercentage":null,"showHeaderSeparator":false,"showLegend":true,"showLegendValue":false,"showMaximumRange":null,"showMetricLabel":null,"showSecondGroupAggregate":false,"showSparkline":null,"showSubAggregate":false,"showTarget":false,"showThreshold":false,"showTotalAggregate":false,"showContinuousLine":true,"enableAddZerosAtApi":true,"showMarkers":false,"showTotalValue":null,"showTrend":false,"showXGrid":false,"showYGrid":true,"sortBy":"name","sortByOrder":"asc","startTime":null,"telemetry":"null","trendBy":{"trendByFields":[{"field":"u_when_needed","metric":"ZEdGaWJHVjRYelU0T0RjeVgyNWxaV1JwZEY5dVpXVmthWFF4TnpjMU5EQXhORGM0Tmprd05UYzNOREkzTkRRdU1ESTNNVEExTWpNPTE3NzU0MDE0Nzg2OTE1ODg0NjQ0Ny42NDcwNjYwNQ=="}],"trendByFrequency":"month","trendByMinuteInterval":null},"wrapTitle":false,"xAxisTitle":null,"yAxis0From":null,"yAxis0Position":"left","yAxis0Title":null,"yAxis0To":null,"showDataTable":false,"colorConfig":{"type":"default"},"componentId":"afiqivul","filterPerMetric":[],"showDateRangeByDefault":false,"allowChangeDateRange":false,"allowAdditionalGroupByPerMetric":true,"showLoadingIndicator":false,"sharedContext":{}}</component_props><h>17</h><name>Monthly Active Requests by Requested for</name><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-05 16:46:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>838a27f583440310207eac80ceaad366</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Monthly Active Requests by Requested for</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_widget_838a27f583440310207eac80ceaad366</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-05 16:46:25</sys_updated_on><visualization/><w>26</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>203240407</payload_hash>
+        <record_name>Monthly Active Requests by Requested for</record_name>
+        <reverted_from/>
+        <source>1361ca8683733210207eac80ceaad35a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-05 16:46:25</sys_created_on>
+        <sys_id>cb8a27f583440310207eac80ceaad369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d5e89d8ee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-05 16:46:25</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>8b8a27f52c44031053bb8f8eb52f6c68</update_guid>
+        <update_guid_history>8b8a27f52c44031053bb8f8eb52f6c68:203240407</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Monthly Active Requests by Requested for">75caaff583440310207eac80ceaad323</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-05 16:47:25</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>291d60574b3049b58db1bcddd48d96b1</sys_id>
+        <sys_metadata>838a27f583440310207eac80ceaad366</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monthly Active Requests by Requested for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_838a27f583440310207eac80ceaad366</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_838a27f583440310207eac80ceaad366">cb8a27f583440310207eac80ceaad369</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-05 16:47:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
